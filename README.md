@@ -1,12 +1,30 @@
 # SKILLINFYTECH INTERNSHIP PROJECTS 🚀 DATA_ANALYTICS
 
-Collection of Data Analytics and Machine Learning projects including Power BI dashboards and predictive models.
+This repository contains Data Analytics and Machine Learning projects completed during my internship at SkillInfyTech.
 
 # 📊 Data Analytics & Machine Learning Projects
 
 This repository contains a collection of Data Analytics and Machine Learning projects completed as part of my internship. These projects focus on data preprocessing, analysis, visualization, and predictive modeling.
 
 ---
+
+📌 Projects Overview
+
+🔹 Customer Churn Prediction
+
+Predict customer churn using machine learning techniques.
+
+🔹 Titanic Survival Prediction
+
+Analyze passenger data and predict survival outcomes.
+
+🔹 Sales & Profit Analysis (Power BI)
+
+Interactive dashboard to analyze sales, profit, and business performance.
+
+
+---
+
 
 ## 🚀 Projects Included
 
